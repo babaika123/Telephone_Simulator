@@ -1,0 +1,13 @@
+D:\Prog\Programming\Telefon\Telefon\obj\Debug\netcoreapp3.0\Telefon.csprojAssemblyReference.cache
+D:\Prog\Programming\Telefon\Telefon\obj\Debug\netcoreapp3.0\Telefon.AssemblyInfoInputs.cache
+D:\Prog\Programming\Telefon\Telefon\obj\Debug\netcoreapp3.0\Telefon.AssemblyInfo.cs
+D:\Prog\Programming\Telefon\Telefon\bin\Debug\netcoreapp3.0\Telefon.exe
+D:\Prog\Programming\Telefon\Telefon\bin\Debug\netcoreapp3.0\Telefon.deps.json
+D:\Prog\Programming\Telefon\Telefon\bin\Debug\netcoreapp3.0\Telefon.runtimeconfig.json
+D:\Prog\Programming\Telefon\Telefon\bin\Debug\netcoreapp3.0\Telefon.runtimeconfig.dev.json
+D:\Prog\Programming\Telefon\Telefon\bin\Debug\netcoreapp3.0\Telefon.dll
+D:\Prog\Programming\Telefon\Telefon\bin\Debug\netcoreapp3.0\Telefon.pdb
+D:\Prog\Programming\Telefon\Telefon\obj\Debug\netcoreapp3.0\Telefon.dll
+D:\Prog\Programming\Telefon\Telefon\obj\Debug\netcoreapp3.0\Telefon.pdb
+D:\Prog\Programming\Telefon\Telefon\obj\Debug\netcoreapp3.0\Telefon.csproj.CoreCompileInputs.cache
+D:\Prog\Programming\Telefon\Telefon\obj\Debug\netcoreapp3.0\Telefon.genruntimeconfig.cache
